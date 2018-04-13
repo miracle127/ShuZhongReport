@@ -41,9 +41,9 @@
 |扬中市福康医院医疗云平台合作项目设备采购询价公告|https://ct-mss.com/MSS-PORTAL/account/viewad.do?category=Enquiry&id=5220387|30|4/13|
 |百路汇电子商务有限责任公司云桌面业务项目询价公告|https://ct-mss.com/MSS-PORTAL/account/viewad.do?category=Enquiry&id=5220326|25.3|4/8|
 
-## 项目链接：
+## 推荐源项目链接：
 
-|项目名|网址|
+|项目名|源网址|
 |:-:|:-:|
 |江陵党建云平台项目|https://www.hbggzyfwpt.cn/jyxx/zfcg/cgggDetail?guid=3e1cbb82-b155-4aa3-9c24-ebd130b06a29|
 |盐城市大丰区人民法院云桌面虚拟化网络平台采购、安装及其伴随服务|http://www.ccgp-yancheng.gov.cn/xsy/xsqjcg/cggg/201804/t20180411_714505.html|
