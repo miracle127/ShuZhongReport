@@ -29,20 +29,6 @@
 |[9]|![][pic9]|285.9|大数据平台|4|10|
 |[10]|![][pic10]|600|大数据平台|4|4|
 
-## 推荐源项目链接：
-
-|项目名|源网址|
-|:-:|:-:|
-|江陵党建云平台项目|https://www.hbggzyfwpt.cn/jyxx/zfcg/cgggDetail?guid=3e1cbb82-b155-4aa3-9c24-ebd130b06a29|
-|盐城市大丰区人民法院云桌面虚拟化网络平台采购、安装及其伴随服务|http://www.ccgp-yancheng.gov.cn/xsy/xsqjcg/cggg/201804/t20180411_714505.html|
-|泰兴市溪桥初级中学云桌面采购项目招标公告|http://www.ccgp-jiangsu.gov.cn/cgxx/cggg/taizhou/201804/t20180409_301410.html|
-|常州信息职业技术学院现代物流储存与配送实训室建设项目竞争性谈判采购公告|http://zfcg.changzhou.gov.cn/html/ns/dlcg_cggg/4997009.html|
-|宁波市奉化区教育局云桌面、机房建设等采购项目的采购公告|http://www.ccgp.gov.cn/cggg/dfgg/gkzb/201804/t20180409_9759825.htm|
-|泉州经贸职业技术学院云桌面管理系统招标方案|http://www.qzjmc.cn/info/1047/3787.htm|
-|2018年北票市高级中学多媒体教学系统采购项目|http://www.cysggzy.com/cyfront/infodetail/?infoid=c20c0304-fc0e-4932-b22b-ff070e28813b&categoryNum=002002001002|
-|中国移动江苏公司扬州分公司建设桌面云项目|https://b2b.10086.cn/b2b/main/viewNoticeContent.html?noticeBean.id=444282|
-|景泰黄河石林文化旅游开发有限公司黄河石林大景区应急指挥系统项目招标公告|http://www.gszfcg.gansu.gov.cn/web/article/402882816284ebb20162b926d7a46b43.html|
-|江西鑫荣招标咨询有限公司关于浮梁县2017年天网工程建设项目|http://www.jxsggzy.cn/web/jyxx/002006/002006001/20180413/cdc55fd9-a4d8-4ae0-a07f-503871fe78e5.html|
 
 ## 本次窗口期内关键词相关项目分布：
 ###### 图中带涟漪红点为贵司历史项目地点，无涟漪数据点为本次窗口期所有项目点分布，颜色越偏暖代表项目数越多。
