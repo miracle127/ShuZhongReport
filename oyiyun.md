@@ -18,16 +18,16 @@
 
 |排名|雷达图|标额|关键字|购买文件截止天数|投标截止天数|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|![][pic1]|40|云平台|6|24|
-|2|![][pic2]|192|云桌面|6|20|
-|3|![][pic3]|61|云桌面|5|18|
-|4|![][pic4]|36.7|教学系统|7|19|
-|5|![][pic5]|303|云桌面|6|11|
-|6|![][pic6]|4.5|云桌面|6|24|
-|7|![][pic7]|81|教学系统|4|19|
-|8|![][pic8]|46.8|云桌面|6|23|
-|9|![][pic9]|285.9|大数据平台|4|10|
-|10|![][pic10]|600|大数据平台|4|4|
+|[1]|![][pic1]|40|云平台|6|24|
+|[2]|![][pic2]|192|云桌面|6|20|
+|[3]|![][pic3]|61|云桌面|5|18|
+|[4]|![][pic4]|36.7|教学系统|7|19|
+|[5]|![][pic5]|303|云桌面|6|11|
+|[6]|![][pic6]|4.5|云桌面|6|24|
+|[7]|![][pic7]|81|教学系统|4|19|
+|[8]|![][pic8]|46.8|云桌面|6|23|
+|[9]|![][pic9]|285.9|大数据平台|4|10|
+|[10]|![][pic10]|600|大数据平台|4|4|
 
 ## 推荐源项目链接：
 
@@ -57,6 +57,16 @@
 |扬中市福康医院医疗云平台合作项目设备采购询价公告|https://ct-mss.com/MSS-PORTAL/account/viewad.do?category=Enquiry&id=5220387|30|4/13|
 |百路汇电子商务有限责任公司云桌面业务项目询价公告|https://ct-mss.com/MSS-PORTAL/account/viewad.do?category=Enquiry&id=5220326|25.3|4/8|
 
+[1]:https://www.hbggzyfwpt.cn/jyxx/zfcg/cgggDetail?guid=3e1cbb82-b155-4aa3-9c24-ebd130b06a29
+[2]:http://www.ccgp-yancheng.gov.cn/xsy/xsqjcg/cggg/201804/t20180411_714505.html
+[3]:http://www.ccgp-jiangsu.gov.cn/cgxx/cggg/taizhou/201804/t20180409_301410.html
+[4]:http://zfcg.changzhou.gov.cn/html/ns/dlcg_cggg/4997009.html
+[5]:http://www.ccgp.gov.cn/cggg/dfgg/gkzb/201804/t20180409_9759825.htm
+[6]:http://www.qzjmc.cn/info/1047/3787.htm
+[7]:http://www.cysggzy.com/cyfront/infodetail/?infoid=c20c0304-fc0e-4932-b22b-ff070e28813b&categoryNum=002002001002
+[8]:https://b2b.10086.cn/b2b/main/viewNoticeContent.html?noticeBean.id=444282
+[9]:http://www.gszfcg.gansu.gov.cn/web/article/402882816284ebb20162b926d7a46b43.html
+[10]:http://www.jxsggzy.cn/web/jyxx/002006/002006001/20180413/cdc55fd9-a4d8-4ae0-a07f-503871fe78e5.html
 [pic1]:https://github.com/miracle127/ShuZhongReport/blob/master/oyiyun2/1.png
 [pic2]:https://github.com/miracle127/ShuZhongReport/blob/master/oyiyun2/2.png
 [pic3]:https://github.com/miracle127/ShuZhongReport/blob/master/oyiyun2/3.png
