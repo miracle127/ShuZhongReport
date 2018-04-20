@@ -1,6 +1,4 @@
-<table><tr><td bgcolor=#7FFFD4>
-  
-# <font color=red size=6 face=“黑体”>数众潜在客户推荐</font>
+# 数众潜在客户推荐
 
 
 ## 摘要：
@@ -19,9 +17,10 @@
 |4|[武汉昊康健身器材有限公司](https://github.com/miracle127/ShuZhongReport/blob/master/shuzhong%20package/com_4.md)|![][com_4]|**中标多、中标分散、中标量持续下降**|
 |5|[武汉宏宇建设工程咨询有限公司](https://github.com/miracle127/ShuZhongReport/blob/master/shuzhong%20package/com_5.md)|![][com_5]|**中标多、中标分散、代理**|
 
+#### 注：点击公司名可查看详情
+
 [com_1]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/pic_1.png
 [com_2]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/pic_2.png
 [com_3]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/pic_3.png
 [com_4]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/pic_4.png
 [com_5]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/pic_5.png
-</td></tr></table>
