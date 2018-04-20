@@ -19,8 +19,8 @@
 
 #### 注：点击公司名可查看详情
 
-[com_1]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/pic_1.png
-[com_2]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/pic_2.png
-[com_3]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/pic_3.png
-[com_4]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/pic_4.png
-[com_5]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/pic_5.png
+[com_1]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/com_1.png
+[com_2]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/com_2.png
+[com_3]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/com_3.png
+[com_4]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/com_4.png
+[com_5]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/com_5.png
