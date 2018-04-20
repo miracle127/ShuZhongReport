@@ -4,7 +4,7 @@
 
 ![][pic_1]
 
-从图中可以看出从2014年至今，武汉昊康健身器材有限公司每年年均中标**8.82**次，2014年中标次数最多共中标**19**次，近4年中标趋势持续走低，应有招投标信息服务需求。
+从图中可以看出从2007年至今，武汉昊康健身器材有限公司每年年均中标**8.82**次，2014年中标次数最多共中标**19**次，近4年中标趋势持续走低，应有招投标信息服务需求。
 
 ## 2、公司背景情况
 
@@ -21,5 +21,5 @@
 
 总体来看武汉昊康健身器材有限公司历史中标数多，关系公司较少，对招投标的信息服务应有较大需求。
 
-[pic_1]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/bar_3.png
-[pic_2]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/relation_3.png
+[pic_1]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/bar_4.png
+[pic_2]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/relation_4.png
