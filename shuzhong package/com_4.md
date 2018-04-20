@@ -21,5 +21,11 @@
 
 总体来看武汉昊康健身器材有限公司历史中标数多，关系公司较少，对招投标的信息服务应有较大需求。
 
+## 4、联系方式
+
+|公司名称|官网|邮箱|联系电话|
+|:-:|:-:|:-:|:-:|
+|武汉昊康健身器材有限公司|http://hoko365.cn.globalimporter.net/|/|027-88112757|
+
 [pic_1]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/bar_4.png
 [pic_2]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/relation_4.png
