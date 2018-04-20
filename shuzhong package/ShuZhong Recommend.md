@@ -6,9 +6,9 @@
 * 关于筛选逻辑：对于一家公司，其历史中标次数越多，且所中标的招标单位越分散（不为同一家公司），我们可以认为其中标关系企业越少。
 
 #### 注：点击公司名可查看详情
-|:-:|:-:|:-:|
 |排名|公司名|雷达图|
-|1|[武汉市政工程设计研究院有限责任公司](https://github.com/miracle127/ShuZhongReport/blob/master/shuzhong%20package/test.md)|[com_1]|
+|:-:|:-:|:-:|
+|1|[武汉市政工程设计研究院有限责任公司](https://github.com/miracle127/ShuZhongReport/blob/master/shuzhong%20package/test.md)|![][com_1]|
 
 
 [com_1]:https://github.com/miracle127/ShuZhongReport/tree/master/picture/shuzhong/score_1.png
