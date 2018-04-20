@@ -1,8 +1,20 @@
 # 武汉市政工程设计研究院有限责任公司详情
 
+## 1、历史中标情况
+
 ![][pic_1]
 
+从图中可以看出从2010年至今，武汉市政工程设计研究院有限责任公司每年年均中标**7.67**次，2016年中标次数最多共中标**16**次。整体趋势上看近3年该公司中标标数持续走低，有理由相信该公司有项目推荐需求。
+
+## 2、公司背景情况
+
+|历史总中标数|有明确招标方中标数|招标方数|均中标数|
+|:-:|:-:|:-:|:-:|
+|**121**|**69**|**30**|**2.3**|
+
 ![][pic_2]
+
+从图中可以看出，该公司历史中标较分散，关系公司应较少。
 
 [pic_1]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/bar_1.png
 [pic_2]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/relation_1.png
