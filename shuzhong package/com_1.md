@@ -21,5 +21,11 @@
 
 总体来看武汉市政工程设计研究院有限责任公司历史中标数多，关系公司较少，且近3年中标数量出现下滑。对招投标的信息服务应有较大需求。
 
+## 4、联系方式
+
+|公司名称|官网|邮箱|联系电话|
+|:-:|:-:|:-:|:-:|
+|武汉市政工程设计研究院有限责任公司|http://www.whmedri.com.cn/|whsz@whjs.gov.cn|(027)85877780 85603515|
+
 [pic_1]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/bar_1.png
 [pic_2]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/relation_1.png
