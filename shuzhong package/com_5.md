@@ -21,9 +21,11 @@
 
 总体来看武汉宏宇建设工程咨询有限公司业务持续发展，关系公司较少，且做招投标代理业务，对招投标的信息服务应有较大需求。
 
-[pic_1]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/bar_5.png
-[pic_2]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/relation_5.png
+## 4、联系方式
 
+|公司名称|官网|邮箱|联系电话|
+|:-:|:-:|:-:|:-:|
+|武汉宏宇建设工程咨询有限公司|http://www.cnhyzx.cn/|hy@cnhyzx.cn|027-88612451|
 
 [pic_1]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/bar_5.png
 [pic_2]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/relation_5.png
