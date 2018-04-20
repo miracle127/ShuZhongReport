@@ -1,8 +1,25 @@
 # 武汉光谷信息技术股份有限公司详情
 
+## 1、历史中标情况
+
 ![][pic_1]
 
+从图中可以看出从2005年至今，武汉市政工程设计研究院有限责任公司每年年均中标**7.44**次，2017年中标次数最多共中标**14**次。整体趋势上看近该公司中标标数持续走高，从有关新闻上判断与该公司进行融资及收购重组有关，由此可以关联到该公司对招投标业务的需求应会持续提高。
+
+## 2、公司背景情况
+
+|历史总中标数|有明确招标方中标数|招标方数|均中标数|主营业务|
+|:-:|:-:|:-:|:-:|:-:|
+|**70**|**67**|**30**|**2.23**|各种建筑工程及矿业方面的软件系统服务，其他方面的软件开发|
+
+关系图：
 ![][pic_2]
 
-[pic_1]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/bar_2.png
-[pic_2]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/relation_2.png
+从图中可以看出，该公司历史中标较分散，关系公司应较少。
+
+## 3、总结
+
+总体来看武汉光谷信息技术股份有限公司历史中标数多，关系公司较少，且近年来资产重组、融资成功。对招投标的信息服务应有较大需求。
+
+[pic_1]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/bar_3.png
+[pic_2]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/relation_3.png
