@@ -21,5 +21,11 @@
 
 总体来看武汉光谷信息技术股份有限公司历史中标数多，关系公司较少，且近年来资产重组、融资成功。对招投标的信息服务应有较大需求。
 
+## 4、联系方式
+
+|公司名称|官网|邮箱|联系电话|
+|:-:|:-:|:-:|:-:|
+|武汉光谷信息技术股份有限公司|http://www.51bsi.com/|service@51bsi.com|400-6874-109|
+
 [pic_1]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/bar_3.png
 [pic_2]:https://github.com/miracle127/ShuZhongReport/blob/master/picture/shuzhong/relation_3.png
